@@ -1,0 +1,16 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: lightcyan;
+}
+img{
+  height: 200px;
+}
+td{
+  border: solid black 1px;
+}
+.middle{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
