@@ -1,3 +1,11 @@
+## Description
+An accounts management demo. The user has Admin rights and is able to create/edit/delete accounts with a name, email and permissions.
+![image](https://user-images.githubusercontent.com/112410929/201478781-4c10857a-156c-4b7c-b5d0-3db0509f21c1.png)
+![image](https://user-images.githubusercontent.com/112410929/201478873-422b3a2f-dfe5-4ef1-92f8-2378a160391d.png)
+
+## TechUsed
+# HTML,CSS,JS,Node.js
+
 ## Installation
 
 1. Clone repo
