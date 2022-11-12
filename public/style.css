@@ -13,4 +13,8 @@ td{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
 }
+
